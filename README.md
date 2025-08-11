@@ -1,6 +1,7 @@
 # IzzaTechfolio
 🌟 Izza's Portfolio
 Welcome to Izza’s Personal Portfolio — a modern, responsive, and visually captivating platform to showcase my skills, projects, and journey as a developer. Built with React, this portfolio reflects my passion for clean design, interactive experiences, and impactful digital solutions.
+---
 
 🚀 Features
 Responsive Design – Fully optimized for all devices: mobile, tablet, and desktop.
