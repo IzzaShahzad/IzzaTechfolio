@@ -4,6 +4,7 @@ Welcome to Izza’s Personal Portfolio — a modern, responsive, and visually ca
 ---
 
 🚀 Features
+---
 Responsive Design – Fully optimized for all devices: mobile, tablet, and desktop.
 
 Smooth Navigation – Simple, intuitive, and user-friendly interface.
@@ -15,18 +16,24 @@ Projects Showcase – Highlighting real-world projects and creative works.
 About Me Section – Sharing my story, skills, and aspirations.
 
 Contact Form & Social Links – Easy ways to connect and collaborate.
+---
 
 🛠️ Tech Stack
+---
 Frontend: React.js, HTML5, CSS3, JavaScript (ES6+)
 
 Styling: CSS Modules / Styled Components
 
 Version Control: Git & GitHub
+---
 
 🎯 Purpose
+---
 This portfolio serves as my digital identity, allowing recruiters, collaborators, and fellow developers to explore my work, learn about my expertise, and reach out for exciting opportunities.
+---
 
 ## 📬 Contact
+---
 
 📧 **Email:** izzashahzad516@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/izza-shahzad-b855612a1/
