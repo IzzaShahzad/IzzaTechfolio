@@ -1,6 +1,6 @@
 # IzzaTechfolio
 🌟 Izza's Portfolio
-Welcome to Izza’s Personal Portfolio — a modern, responsive, and visually captivating platform to showcase my skills, projects, and journey as a developer. Built with React, this portfolio reflects my passion for clean design, interactive experiences, and impactful digital solutions. /n
+Welcome to Izza’s Personal Portfolio — a modern, responsive, and visually captivating platform to showcase my skills, projects, and journey as a developer. Built with React, this portfolio reflects my passion for clean design, interactive experiences, and impactful digital solutions.
 
 🚀 Features
 Responsive Design – Fully optimized for all devices: mobile, tablet, and desktop.
@@ -25,9 +25,9 @@ Version Control: Git & GitHub
 🎯 Purpose
 This portfolio serves as my digital identity, allowing recruiters, collaborators, and fellow developers to explore my work, learn about my expertise, and reach out for exciting opportunities.
 
-📬 Contact
-📧 Email: [izzashahzad516@gmail.com] /n
-🔗 LinkedIn: [https://www.linkedin.com/in/izza-shahzad-b855612a1/] /n
-💻 GitHub: [https://github.com/IzzaShahzad] /n
-🔗 LinkedIn: [Your LinkedIn Here] /n
-💻 GitHub: [Your GitHub Here] /n
+## 📬 Contact
+
+📧 **Email:** izzashahzad516@gmail.com  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/izza-shahzad-b855612a1/] 
+💻 **GitHub:** [https://github.com/IzzaShahzad]  
+
