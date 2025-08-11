@@ -28,6 +28,6 @@ This portfolio serves as my digital identity, allowing recruiters, collaborators
 ## 📬 Contact
 
 📧 **Email:** izzashahzad516@gmail.com  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/izza-shahzad-b855612a1/] 
-💻 **GitHub:** [https://github.com/IzzaShahzad]  
+🔗 **LinkedIn:** https://www.linkedin.com/in/izza-shahzad-b855612a1/
+💻 **GitHub:** https://github.com/IzzaShahzad 
 
