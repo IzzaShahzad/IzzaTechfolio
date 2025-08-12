@@ -1,30 +1,26 @@
 import React from "react";
+import { motion } from "framer-motion";
+import "./About.css";
 
 const About = () => {
   return (
-    <section id="about" className="about-section">
-      <div className="about-container">
-        <div className="about-text">
-          <h2>About Me</h2>
-          <p>
-            I’m <strong>Izza Shahzad</strong>, a passionate tech enthusiast
-            and undergraduate IT student with a focus on creating interactive,
-            functional, and visually appealing digital solutions.
-          </p>
-          <p>
-            Currently, I am gaining hands-on experience through internships at:
-          </p>
-          <ul>
-            <li>Bytewise Limited (Remote)</li>
-            <li>Elevvo Pathways (Remote) — Egypt-based</li>
-            <li>Alberuni Tech (Onsite)</li>
-          </ul>
-          <p>
-            My work blends creativity with technical precision, aiming to deliver
-            solutions that are both innovative and user-friendly.
-          </p>
-        </div>
-      </div>
+    <section className="about-section">
+      <motion.div
+        className="about-box"
+        initial={{ opacity: 0, y: 50 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.8, ease: "easeOut" }}
+        viewport={{ once: true }}
+      >
+        <h2 className="about-heading">About Me</h2>
+        <p className="about-text">
+          Hi, I’m <strong>Izza Shahzad</strong> — a passionate front-end
+          developer with a love for clean design, responsive layouts, and
+          interactive experiences.  
+          My goal is to craft digital solutions that make an impact while
+          delivering seamless user experiences.
+        </p>
+      </motion.div>
     </section>
   );
 };

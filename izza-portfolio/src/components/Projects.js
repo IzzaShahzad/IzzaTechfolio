@@ -1,4 +1,5 @@
 import React from 'react';
+import './Projects.css';
 
 const projects = [
   {title:'BlogFolio_React', desc:'Personal blog & portfolio in React', link:'https://github.com/IzzaShahzad/BlogFolio_React'},
@@ -14,8 +15,8 @@ const projects = [
 
 export default function Projects(){
   return (
-    <section id="projects" className="container projects">
-      <h2>Projects</h2>
+    <section id="projects" className="container projects-box">
+      <h2 className="section-title">Projects</h2>
       <div className="proj-grid">
         {projects.map((p,i)=> (
           <a key={i} className="proj-card" href={p.link} target="_blank" rel="noreferrer">

@@ -1,3 +1,24 @@
-/* small app-level styles (additional) */
-a{color:var(--primary)}
-h1{margin:0}
+/* Shared Black Box Style */
+.section-box {
+  background-color: #000; /* black background */
+  padding: 2rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+.section-box h2 {
+  color: #fff;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.section-box p {
+  color: #ddd;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+/* Optional Hover Glow for Box */
+.section-box:hover {
+  box-shadow: 0 0 15px rgba(255, 152, 0, 0.4); /* subtle orange glow */
+}
