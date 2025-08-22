@@ -1,9 +1,14 @@
+/* Ensure sections are spaced out */
+section {
+  margin-top: 3rem; /* Adds space before each section */
+}
+
 /* Shared Black Box Style */
 .section-box {
   background-color: #000; /* black background */
   padding: 2rem;
   border-radius: 10px;
-  margin-bottom: 2rem;
+  margin-bottom: 2rem; /* Space inside the parent */
 }
 
 .section-box h2 {
@@ -17,7 +22,9 @@
   font-size: 0.95rem;
   line-height: 1.6;
 }
-
+.section-container {
+  margin-top: 3rem !important;
+}
 /* Optional Hover Glow for Box */
 .section-box:hover {
   box-shadow: 0 0 15px rgba(255, 152, 0, 0.4); /* subtle orange glow */

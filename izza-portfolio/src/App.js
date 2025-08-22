@@ -1,5 +1,6 @@
 import React from 'react';
-import Navbar from './components/Navbar';
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import Navbar from './components/Home';
 import Hero from './components/Hero';
 import About from './components/About';
 import Skills from './components/Skills';
@@ -10,18 +11,25 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="app-root">
-      <Navbar />
-      <main>
-        <Hero />
-        <About />
-        <Skills />
-        <Projects />
-        <Experience />
-        <Contact />
-      </main>
-      <Footer />
-    </div>
+    <Router>
+      <nav style={{ display: "flex", gap: "20px", padding: "10px" }}>
+        <Link to="/Hero">Hero</Link>
+        <Link to="/About">About</Link>
+        <Link to="/Skills">Skills</Link>
+        <Link to="/Projects">Projects</Link>
+        <Link to="/Experience">Experience</Link>
+        <Link to="/Contact">Contact</Link>
+      </nav>
+      <Routes>
+        <Route path="/Hero" element={<Hero />} />
+        <Route path="/About" element={<About />} />
+        <Route path="/Skills" element={<Skills />} />
+        <Route path="/Projects" element={<Projects />} />
+        <Route path="/Experience" element={<Experience />} />
+        <Route path="/Contact" element={<Contact />} />
+        
+      </Routes>
+    </Router>
   );
 }
 
