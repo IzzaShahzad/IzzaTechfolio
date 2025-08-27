@@ -1,30 +1,38 @@
-IZZA SHAHZAD – PORTFOLIO WEBSITE
+# 🌟 My Portfolio Website
 
-Welcome to my personal portfolio website repository!
-This project showcases my skills, projects, internships, and contact details in a modern, responsive design using React + Vite.
-🌟 My Portfolio Website
+Welcome to the repository for my personal portfolio website! This project showcases my skills, projects, and experiences in a visually appealing and responsive manner. It’s built using React + Vite for speed and modern development practices.
 
-Welcome to my personal portfolio website repository! This project showcases my skills, projects, internships, and contact details in a visually appealing and responsive design using React + Vite.
+# 👩‍💻 About Me
 
-👩‍💻 About Me
+Hi! I'm Izza Shahzad, an enthusiastic Front-End Web Developer with a passion for creating clean, interactive, and user-friendly web interfaces.
+I enjoy building projects that combine creativity with functionality, delivering an excellent user experience.
 
-Hi! I'm Izza Shahzad, an enthusiastic IT undergraduate passionate about web development, mobile app development, and emerging technologies.
-I love building modern, responsive, and interactive websites and working on projects that combine creativity with technology.
+# 🚀 Skills
 
-🛠️ Skills
+Here are the technologies and tools I work with:
 
-Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
+Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Vite
 
-Backend: Node.js, Express.js
+Styling: Tailwind CSS, Responsive Design, Animations
 
-Database: MongoDB
+Version Control: Git, GitHub
 
-Other Tools: Git, GitHub, Vite, npm
+Other Tools: npm, VS Code, Node.js
 
-📞 Contact Me
+# ✨ Features
 
-📧 Email: izzashahzad516@gmail.com
+Fully responsive design
 
-💼 LinkedIn: https://www.linkedin.com/in/izza-shahzad-b855612a1/
+Smooth animations for better user experience
 
-🐙 GitHub: https://github.com/IzzaShahzad
+Easy navigation with modern UI/UX principles
+
+# 📬 Contact Me
+
+I’d love to connect with you!
+
+Email: izzashahzad516@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/izza-shahzad-b855612a1/
+
+GitHub: https://github.com/IzzaShahzad
