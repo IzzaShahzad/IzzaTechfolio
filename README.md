@@ -1,3 +1,7 @@
+IZZA SHAHZAD – PORTFOLIO WEBSITE
+
+Welcome to my personal portfolio website repository!
+This project showcases my skills, projects, internships, and contact details in a modern, responsive design using React + Vite.
 🌟 My Portfolio Website
 
 Welcome to my personal portfolio website repository! This project showcases my skills, projects, internships, and contact details in a visually appealing and responsive design using React + Vite.
